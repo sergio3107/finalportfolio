@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Agency - Start Bootstrap Theme</title>
+        <title>Sergio Pillay Portfolio</title>
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
@@ -54,8 +54,8 @@
                 </div>
                 <div class="row text-center">
                     <div class="col-md-4">
-                        <span class="fa-stack fa-4x">
-                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                        <!-- <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i> -->
                         </span>
                         <h4 class="my-3">General</h4>
                         <p class="text-muted">
@@ -69,8 +69,8 @@
                         <p>Are you blacklisted or do you have any credit issues? No </p></p>
                     </div>
                     <div class="col-md-4">
-                        <span class="fa-stack fa-4x">
-                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                        <!-- <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i> -->
                         </span>
                         <h4 class="my-3">Student bio</h4>
                         <p class="text-muted">
@@ -82,9 +82,9 @@
                             knowledge with the developers to come.</p></p>
                     </div>
                     <div class="col-md-4">
-                        <span class="fa-stack fa-4x">
+                        <!-- <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                        </span>
+                        </span> -->
                         <h4 class="my-3">Passion and Education board</h4>
                         <p class="text-muted">
                             <p>Soccer, Cars,Gadgets and Fashion</p>
