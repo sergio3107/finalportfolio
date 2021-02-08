@@ -66,7 +66,7 @@ body {
   line-height: 1.5;
   color: black;
   text-align: left;
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -6133,7 +6133,7 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background-color: #ced4da !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
@@ -10084,7 +10084,7 @@ img::-moz-selection {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
     border: none;
-    background-color: transparent;
+    background-color: #ced4da;
     transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
   }
   #mainNav .navbar-brand {
@@ -10119,11 +10119,12 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
+  background-color: #ced4da;
   background-image: url("../assets/img/me.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: top;
-  background-size: cover ;
+  background-size: contain ;
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
