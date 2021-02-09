@@ -5449,7 +5449,7 @@ a.close.disabled {
   position: relative;
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 60%;
   pointer-events: auto;
   background-color: #fff;
   background-clip: padding-box;
@@ -10120,7 +10120,7 @@ header.masthead {
   text-align: center;
   color: #fff;
   background-color: #ced4da;
-  background-image: url("../assets/img/me.jpg");
+  background-image: url("../assets/img/tech-back.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: top;
