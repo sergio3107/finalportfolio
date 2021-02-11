@@ -15,7 +15,7 @@
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
-  --red: #dc3545;
+  --red: #de1738;
   --orange: #fd7e14;
   --yellow: #fed136;
   --green: #28a745;
@@ -64,9 +64,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: black;
+  color: #ffffff;
   text-align: left;
-  background-color: #ced4da;
+  background-color: #000000;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: #a2a3a2;
+  color: red;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #86857e;
+  color: var(--red);
   text-decoration: underline;
 }
 
@@ -6133,7 +6133,7 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #ced4da !important;
+  background-color: #000000 !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
@@ -10073,11 +10073,11 @@ img::-moz-selection {
 #mainNav .navbar-nav .nav-item .nav-link {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.95rem;
-  color: black;
+  color: white;
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: black;
+  color: yellow;
 }
 
 @media (min-width: 992px) {
@@ -10099,7 +10099,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: gray;
+    background-color: #de1738;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
@@ -10121,10 +10121,10 @@ img::-moz-selection {
   text-align: center;
   color: #fff;
   background-color: #ced4da;
-  background-image: url("../assets/img/business-2717063_1920.jpg");
+  background-image: url("https://i.postimg.cc/j55xs947/walling-XLqi-L-rz4-V8-unsplash.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: top;
+  background-position: center;
   background-size: cover ;
   line-height: 15vh;
 }
@@ -10160,7 +10160,6 @@ header.masthead .masthead-heading {
     font-weight: 700;
     line-height: 4.5rem;
     margin-bottom: 4rem;
-    color: gray;
   }
 }
 #portfolio .portfolio-item {
