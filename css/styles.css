@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: red;
+  color: yellow;
   text-decoration: none;
   background-color: transparent;
 }
@@ -2438,7 +2438,7 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: var(--red) !important;
+  background-color: lightgrey;
   border-color: #fff;
 }
 .mary:hover {
@@ -10077,7 +10077,7 @@ img::-moz-selection {
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: var(--red);
+  color: yellow;
 }
 
 @media (min-width: 992px) {
